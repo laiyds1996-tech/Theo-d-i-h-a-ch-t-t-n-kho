@@ -1,0 +1,5 @@
+{
+  "name": "Lab Chemical Inventory Tracker",
+  "description": "An application to manage and track chemicals and supplies in a laboratory. It features automatic inventory deduction, alert notifications for low stock, reporting, and role-based access.",
+  "requestFramePermissions": []
+}
